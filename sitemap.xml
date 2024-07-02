@@ -11,7 +11,10 @@
   </url>
 
       <url>
-    <loc>https://datain.cloud/tools/cloud-cost-calculator.html</loc>
+    <loc>https://datain.cloud/tools/</loc>
   </url>
   
+      <url>
+    <loc>https://datain.cloud/tools/sitemap.xml</loc>
+  </url>
 </urlset>
